@@ -12,12 +12,12 @@ class App extends Component{
       <div className="App">
         <Message />
       {/*
-        <Greet name="Suvi-Tuulia" isKeenOn="maths">
+        <Greet name="Someone" isKeenOn="maths">
         <p>This is a child component</p>
         </Greet>
         <Greet name="Hannu" isKeenOn="literature" />
         <Greet name="kerttu" isKeenOn="physics" />
-        <OneOfTheWelcomes  name="Suvi-Tuulia" isKeenOn="maths" />
+        <OneOfTheWelcomes  name="Someone" isKeenOn="maths" />
         <OneOfTheWelcomes name="Hannu" isKeenOn="literature" />
         <OneOfTheWelcomes name="kerttu" isKeenOn="physics" />
         <WhatNowThen />*/}
